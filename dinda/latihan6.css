@@ -1,0 +1,52 @@
+.top {
+  width: 100%;
+  height: 150px;
+  text-align: center;
+  background-color: aqua;
+  border: solid black 3px;
+  border-radius: 29px 29px 0px 0px;
+}
+.middle {
+  display: flex;
+  width: 100%;
+  height: 150px;
+  background-color: aqua;
+  margin-top: 10px;
+  border: solid black 3px;
+}
+.kiri {
+  width: 32%;
+  height: 130px;
+  border: red;
+  border-style: dashed;
+  background-color: yellow;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.tengah {
+  width: 32%;
+  height: 130px;
+  border-style: dotted;
+  background-color: yellow;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.kanan {
+  width: 33%;
+  height: 130px;
+  border: red;
+  border-style: dashed;
+  background-color: yellow;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.bottom {
+  width: 100%;
+  height: 150px;
+  text-align: center;
+  background-color: aqua;
+  border: solid black 3px;
+  margin-top: 10px;
+  border-radius: 0px 0px 29px 29px;
+}
